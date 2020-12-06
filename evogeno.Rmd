@@ -1,0 +1,37 @@
+---
+title: "Evolutionary Genomics & Bioinformatics"
+author: "Jeffrey Blanchard"
+date: "2/26/2020"
+output:
+  prettydoc::html_pretty:
+    theme: readable
+    highlight: github
+#How to create a 
+  #html_document:
+  #  theme:  readable
+#bibliography: data/references.bib
+---
+
+
+ 
+ 1. [Lab-1](Lab_1.html)
+ 2. [Lab-2](Lab_2.html)
+ 3. [Lab-3A](Lab_3A.html)
+ 4. [Lab-3B](Lab_3B.html)
+ 5. [Lab-4](Lab_4.html)
+ 6. [Lab-4A](Lab_4A.html)
+ 7. [Lab-5](Lab_5.html)
+ 8. [Lab-5A](Lab_5A.html)
+ 9. [Lab-5 Extra](Lab_5_Extra.html)
+ 10. [Lab-6](Lab_6.html)
+ 11. [Lab-6 Extra](Lab_6_Extra_Shiny.Rmd)
+ 12. [Lab-7](Lab7.html)
+ 13. [Lab-8](Lab_8.html)
+ 14. [Lab-9](Lab_9.html)
+ 15. [Lab-9 Extra](Lab_9_Extra.html)
+ 16. [Lab-10](Lab_10.html)
+ 17. [Lab-11](Lab_11.html)
+ 18. [Lab-11 Extra](Lab_11_x.html)
+ 19. [Lab-12](Lab_12.html)
+ 
+  
